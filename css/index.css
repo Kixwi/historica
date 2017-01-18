@@ -1,0 +1,23 @@
+html, body {
+  color: #ffcc00;
+  background-color: #e6ffff;
+  font-family: arial;
+}
+
+.title {
+  color: #ffcc00;
+
+}
+
+.ul1 {
+
+}
+
+.ul1 li {
+  display: inline;
+  padding: 0px;
+}
+
+#liste li {
+  display: inline;
+}
